@@ -1,4 +1,3 @@
-# animated-doodle
 <!DOCTYPE html>
 <html lang="en">
 <head>
